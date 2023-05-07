@@ -1,4 +1,6 @@
-### Hi there 👋
+### DevTool
+![](
+https://img.shields.io/badge/OS-Windows11-blue?style=flat-square) ![](https://img.shields.io/badge/IDE-DevC++-blue?style=flat-square) ![](https://img.shields.io/badge/IDE-IntelliJ-blueviolet?style=flat-square) ![](https://img.shields.io/badge/IDE-PyCarm-brightgreen?style=flat-square) ![](https://img.shields.io/badge/Language-Python-blue?style=flat-square) ![](https://img.shields.io/badge/Language-Java-red?style=flat-square) ![](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square) ![](https://img.shields.io/badge/Text%20Editor-Sublime%20Text-yellow?style=flat-square)
 
 <!--
 **x200706/x200706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
