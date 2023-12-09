@@ -5,6 +5,7 @@ Welcome to my GitHub profile! This is where I share open-source projects, learni
 - [My Blog(old)](https://x200706.netlify.app/)
 - [My Replit](https://replit.com/@chi200706)
 - [My gist](https://gist.github.com/x200706)
+- [My wiki](https://x200706.tiddlyhost.com/)
 
 ![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
 
