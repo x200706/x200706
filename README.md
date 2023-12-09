@@ -1,4 +1,4 @@
-# About Crystal
+# About Crystal⛄☃️❄️🩵
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
 - [My Blog(new)](https://x200706.hatenablog.com/)
