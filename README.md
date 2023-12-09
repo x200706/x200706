@@ -4,25 +4,29 @@
 
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
-- [My Blog](https://x200706.netlify.app/)
-- [LinkedIn Profile](https://www.linkedin.com/in/crystalchen1997/)
-- [My Resume](https://standardresume.co/r/Y_3-1y7cMXe3h4F5u-l_e)
+- [My Blog(new)](https://x200706.hatenablog.com/)
+- [My Blog(old)](https://x200706.netlify.app/)
+- [My Replit](https://replit.com/@chi200706)
 
 ## Project Highlights
 
 Here are some of my recent open-source projects you can check out:
 
 - [Faizs-Cakereume-CrawlerPandasVer](https://github.com/x200706/Faizs-Cakereume-CrawlerPandasVer): A crawler that help you find job on Cakeresume.
+- [Flow.Launcher.Plugin.PerformanceMonitor
+](https://github.com/x200706/Flow.Launcher.Plugin.PerformanceMonitor): A FlowLauncher plugin that show you CPU, RAM, storage usage info.
 
 ## Technology Stack
 
 I am familiar with and use the following technologies:
 
-- Languages: Java, Python
+- Languages: Java, Python, PHP, JavaScript(Node.js) etc.
+- Backend: Spring Boot, Django, Flask, Laravel, Node.js
+- Databases: MySQL, PostgreSQL, Firebase, Supabase, LeanCloud etc.
+- Tools: Git, GitHub/GitLab CI and other function(like PR, issue etc.), Sumbline Text, Vim, VS Code, IntelliJ, Replit etc.
+- Server, OS, Service: Linux, Nginx, pm2 etc.
+- Cloud Platform: GCP
 - Frontend: HTML, CSS, Bootstrap
-- Backend: Spring Boot, Django
-- Databases: MySQL, PostgreSQL, Firebase
-- Tools: Git, VS Code, IntelliJ, Replit etc.
 
 ## HighLight Blog Posts
 
