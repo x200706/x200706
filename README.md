@@ -5,6 +5,8 @@ Welcome to my GitHub profile! This is where I share open-source projects, learni
 - [My Blog(old)](https://x200706.netlify.app/)
 - [My Replit](https://replit.com/@chi200706)
 
+![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
+
 ## Project Highlights
 
 Here are some of my recent open-source projects you can check out:
@@ -32,5 +34,3 @@ I regularly publish technical articles on my personal website. Here are some rec
 - [Linux Note](https://x200706.netlify.app/2023/08/01/20230407%E6%88%91%E7%9C%9F%E7%9A%84%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%AD%B8linux%E3%80%82/): Common syntax
 
 Thank you for visiting my GitHub profile! If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out.
-
-![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
