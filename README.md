@@ -1,5 +1,3 @@
-![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
-
 # About Crystal
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
@@ -33,4 +31,6 @@ I regularly publish technical articles on my personal website. Here are some rec
 
 - [Linux Note](https://x200706.netlify.app/2023/08/01/20230407%E6%88%91%E7%9C%9F%E7%9A%84%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%AD%B8linux%E3%80%82/): Common syntax
 
-Thank you for visiting my GitHub profile! If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out. I look forward to engaging and contributing to the tech community!
+Thank you for visiting my GitHub profile! If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out.
+
+![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
