@@ -1,12 +1,9 @@
 # About Crystal⛄☃️❄️🩵
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
-- [My Blog(new)](https://x200706.hatenablog.com/)
-- [My Blog(old)](https://x200706.netlify.app/)
-- [My Replit](https://replit.com/@chi200706)
-- [My gist](https://gist.github.com/x200706)
-- [My wiki](https://x200706.tiddlyhost.com/)
-- [My wiki(old, I also call it 'blog')](https://x200706.github.io)
+✨[My Blog(new)](https://x200706.hatenablog.com/) ✨[My Blog(old)](https://x200706.netlify.app/)<br>
+✨[My Replit](https://replit.com/@chi200706) ✨[My gist](https://gist.github.com/x200706)<br>
+✨[My wiki](https://x200706.tiddlyhost.com/) ✨[My wiki(oldest, I also call it 'blog')](https://x200706.github.io)
 
 ![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
 
