@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
 ######  More About Development
-✨[My Blog(new)](https://x200706.hatenablog.com/) ✨[My Blog(old)](https://x200706.netlify.app/)✨[My Blog(oldest, in fact, it is a Tiddlywiki.)](https://x200706.github.io)<br>
+✨[My Blog(new)](https://x200706.hatenablog.com/) ✨[My Blog(old)](https://x200706.netlify.app/)✨[My Blog(oldest. In fact, it is a Tiddlywiki.)](https://x200706.github.io)<br>
 ✨[My Replit](https://replit.com/@chi200706) ✨[My gist](https://gist.github.com/x200706)<br>
 
 ######  More About Thinking
