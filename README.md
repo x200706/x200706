@@ -22,13 +22,13 @@ Here are some of my recent open-source projects you can check out:
 
 I am familiar with and use the following technologies:
 
-- Languages: Java, Python, PHP, JavaScript(Node.js) etc.
-- Backend: Spring Boot, Django, Flask, Laravel, Node.js
-- Databases: MySQL, PostgreSQL, Firebase, Supabase, LeanCloud etc.
-- Tools: Git, GitHub/GitLab CI and other function(like PR, issue etc.), Sumbline Text, Vim, VS Code, IntelliJ, Replit etc.
-- Server, OS, Service: Linux, Nginx, pm2 etc.
-- Cloud Platform: GCP
-- Frontend: HTML, CSS, Bootstrap
+- Languages: `Java` `Python` `PHP` `JavaScript(Node.js)` etc.
+- Backend: `Spring Boot` `Django` `Flask` `Laravel` `Node.js`
+- Databases: `MySQL` `PostgreSQL` `SQLite` `Firebase` `Supabase(base on PostgreSQL, but with GraphQL)` `LeanCloud` etc.
+- Tools: `Git` `GitHub/GitLab CI and other function(like PR, issue etc.)` `Sumbline Text` `Vim/neovim` `VS Code` `IntelliJ` `Replit` etc.
+- Server, OS, Service: `Linux(especially Ubuntu)` `Nginx` `pm2` etc.
+- Cloud Platform: `GCP`
+- Frontend: `HTML` `CSS` `Bootstrap`
 
 ## HighLight Blog Posts
 
