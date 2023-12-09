@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=13&pause=500&color=72F7BF&vCenter=true&multiline=true&width=435&lines=if+today.self+%3E+yesterday.self%3A;%E3%80%80%E3%80%80print('You+are+on+the+right+path!'))](https://git.io/typing-svg)
+![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
 
 # About Crystal
-
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
 - [My Blog(new)](https://x200706.hatenablog.com/)
