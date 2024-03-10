@@ -1,8 +1,8 @@
 # About Crystal⛄☃️❄️🩵
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
-✨[My Blog(new)](https://x200706.hatenablog.com/) ✨[My Blog(old)](https://x200706.netlify.app/)✨[My Blog(oldest. In fact, it is a Tiddlywiki.)](https://x200706.github.io)<br>
-✨[My Replit](https://replit.com/@chi200706) ✨[My gist](https://gist.github.com/x200706)<br>
+✨[My Bear Blog]((https://x200706.bearblog.dev/)<br>
+✨[My gist](https://gist.github.com/x200706)<br>
 
 ![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
 
@@ -10,9 +10,7 @@ Welcome to my GitHub profile! This is where I share open-source projects, learni
 
 Here are some of my recent open-source projects you can check out:
 
-- [Faizs-Cakereume-CrawlerPandasVer](https://github.com/x200706/Faizs-Cakereume-CrawlerPandasVer): A crawler that help you find job on Cakeresume.
-- [Flow.Launcher.Plugin.PerformanceMonitor
-](https://github.com/x200706/Flow.Launcher.Plugin.PerformanceMonitor): A FlowLauncher plugin that show you CPU, RAM, storage usage info.
+- [Flow.Launcher.Plugin.PerformanceMonitor](https://github.com/x200706/Flow.Launcher.Plugin.PerformanceMonitor): A FlowLauncher plugin that show you CPU, RAM, storage usage info.
 
 ## Technology Stack
 
