@@ -1,5 +1,5 @@
 ![happy-happy-happy](https://i.imgur.com/HpW3nEv.gif)
-## Nice to meet you!
+Nice to meet you!
 
 # About Crystal
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
