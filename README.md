@@ -1,7 +1,7 @@
 # About Crystal⛄☃️❄️🩵
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
-✨[My Bear Blog]((https://x200706.bearblog.dev/)<br>
+✨[My Bear Blog](https://x200706.bearblog.dev/)<br>
 ✨[My gist](https://gist.github.com/x200706)<br>
 
 ![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
