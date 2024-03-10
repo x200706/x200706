@@ -1,11 +1,9 @@
-![happy-happy-happy](https://i.imgur.com/HpW3nEv.gif)
-
-Nice to meet you!
-
 # About Crystal
 Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
 
 ✨[My Bear Blog](https://x200706.bearblog.dev/) ✨[My gist](https://gist.github.com/x200706)
+
+![happy-happy-happy](https://i.imgur.com/HpW3nEv.gif)
 
 ## Project Highlights
 
