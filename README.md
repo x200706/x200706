@@ -3,7 +3,7 @@ Welcome to my GitHub profile! This is where I share open-source projects, learni
 
 ✨[My Bear Blog](https://x200706.bearblog.dev/) ✨[My gist](https://gist.github.com/x200706)<br>
 
-![ui-shigure-shigure-ui](https://github.com/x200706/x200706/assets/99391710/4465ca62-57c9-4041-b0af-a7b7b69796a5)
+![happy-happy-happy](https://i.imgur.com/HpW3nEv.gif)
 
 ## Project Highlights
 
