@@ -3,7 +3,7 @@ Welcome to my GitHub profile! This is where I share open-source projects, learni
 
 ✨[My Bear Blog](https://x200706.bearblog.dev/) ✨[My gist](https://gist.github.com/x200706)
 
-Nice to meet you!💙
+Nice to meet you!🩵
 
 ***
 ## Tool Stack
