@@ -1,5 +1,5 @@
 # About Crystal
-Welcome to my GitHub profile! This is where I share open-source projects, learning notes, and technical articles. If you're interested in me, you can find me at the following places:
+Welcome to my GitHub profile! This is where I share open-source projects and technical notes. If you're interested in me, you can find me at the following places:
 
 ✨[My Bear Blog](https://x200706.bearblog.dev/) ✨[My gist](https://gist.github.com/x200706)
 
