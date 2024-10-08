@@ -1,5 +1,7 @@
 # About Crystal
-Welcome to my GitHub profile! This is where I share open-source projects and technical notes. If you're interested in me, you can find me at the following places:
+Welcome to my GitHub profile! \
+This is where I share open-source projects and technical notes. \
+If you're interested in me, you can find me at the following places:
 
 ✨[My Blog](https://chi200706.netlify.app/) ✨[My Gist](https://gist.github.com/x200706)
 
