@@ -15,4 +15,4 @@ Nice to meet you!🩵
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-659bec.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/GitHub-659bec?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="">
 
 ## GitHub Status
-[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706)](https://github.com/anuraghazra/github-readme-stats)
+[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
