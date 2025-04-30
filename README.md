@@ -13,3 +13,6 @@ Nice to meet you!🩵
 <img src="https://img.shields.io/badge/Spring-3a6eb6?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/VSCode-3a6eb6?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/PostgreSQL-3a6eb6?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="">\
 <img src="https://img.shields.io/badge/Django-659bec?style=for-the-badge&amp;logo=django&amp;logoColor=green" alt=""> <img src="https://img.shields.io/badge/prettier-659bec?style=for-the-badge&amp;logo=prettier&amp;logoColor=F7BA3E" alt=""> <img src="https://img.shields.io/badge/Supabase-659bec?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Markdown-659bec?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="">\
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-659bec.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/GitHub-659bec?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="">
+
+## GitHub Status
+[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706)](https://github.com/anuraghazra/github-readme-stats)
