@@ -3,7 +3,7 @@ Welcome to my GitHub profile! \
 This is where I share open-source projects and technical notes. \
 If you're interested in me, you can find me at the following places:
 
-💧[My Blog](https://x200706.vercel.app/) 💧[My Gist](https://gist.github.com/x200706)
+✨[My Blog](https://x200706.vercel.app/) ✨[My Gist](https://gist.github.com/x200706)
 
 Nice to meet you!🩵
 
