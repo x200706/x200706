@@ -15,3 +15,6 @@ If you're interested in me, you can find me at the following places:\
 
 ## GitHub Status
 [![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Kaggle Badge
+![image](https://github.com/user-attachments/assets/b3f5d74f-ae64-4a82-9694-f3f8589799ed)
