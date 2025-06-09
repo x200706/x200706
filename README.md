@@ -13,8 +13,9 @@ If you're interested in me, you can find me at the following places:\
 <img src="https://img.shields.io/badge/Django-C95792?style=for-the-badge&logo=django&logoColor=green" alt="Django"> <img src="https://img.shields.io/badge/prettier-C95792?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier"> <img src="https://img.shields.io/badge/Supabase-C95792?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Markdown-C95792?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">\
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-F8B55F.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/GitHub-F8B55F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  <img src="https://img.shields.io/badge/Docker-F8B55F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
+## My Kaggle Badge
+![image](https://github.com/user-attachments/assets/b3f5d74f-ae64-4a82-9694-f3f8589799ed)
+
 ## GitHub Status
 [![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Kaggle Badge
-![image](https://github.com/user-attachments/assets/b3f5d74f-ae64-4a82-9694-f3f8589799ed)
