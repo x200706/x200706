@@ -1,19 +1,17 @@
 # About Crystal
 Welcome to my GitHub profile! \
 This is where I share open-source projects and technical notes. \
-If you're interested in me, you can find me at the following places:
+If you're interested in me, you can find me at the following places:\
+🪄[My Blog](https://x200706.vercel.app/) 🪄[My Gist](https://gist.github.com/x200706)
 
-✨[My Blog](https://x200706.vercel.app/) ✨[My Gist](https://gist.github.com/x200706)
-
-Nice to meet you!🩵
+👾Nice to meet you!🎮
 
 ## Tool Stack
-<img src="https://img.shields.io/badge/Laravel-07133b?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Ubuntu-07133b?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Linux-07133b?style=for-the-badge&amp" alt="">\
-<img src="https://img.shields.io/badge/Postman-1a1f64?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Python-1a1f64?style=for-the-badge&amp;logo=python&amp;logoColor=blue" alt=""> <img src="https://img.shields.io/badge/Nginx-1a1f64?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="">\
-<img src="https://img.shields.io/badge/Spring-3a6eb6?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/VSCode-3a6eb6?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/PostgreSQL-3a6eb6?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="">\
-<img src="https://img.shields.io/badge/Django-659bec?style=for-the-badge&amp;logo=django&amp;logoColor=green" alt=""> <img src="https://img.shields.io/badge/prettier-659bec?style=for-the-badge&amp;logo=prettier&amp;logoColor=F7BA3E" alt=""> <img src="https://img.shields.io/badge/Supabase-659bec?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Markdown-659bec?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="">\
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-659bec.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/GitHub-659bec?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="">  <img src="https://img.shields.io/badge/Docker-659bec?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="">
-
+<img src="https://img.shields.io/badge/Laravel-1F2544?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Ubuntu-1F2544?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/Linux-1F2544?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">\
+<img src="https://img.shields.io/badge/Postman-474F7A?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Python-474F7A?style=for-the-badge&logo=python&logoColor=blue" alt="Python"> <img src="https://img.shields.io/badge/Nginx-474F7A?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">\
+<img src="https://img.shields.io/badge/Spring-81689D?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/VSCode-81689D?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/PostgreSQL-81689D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">\
+<img src="https://img.shields.io/badge/Django-C95792?style=for-the-badge&logo=django&logoColor=green" alt="Django"> <img src="https://img.shields.io/badge/prettier-C95792?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier"> <img src="https://img.shields.io/badge/Supabase-C95792?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Markdown-C95792?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">\
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-F8B55F.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/GitHub-F8B55F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  <img src="https://img.shields.io/badge/Docker-F8B55F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
 ## GitHub Status
-[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
