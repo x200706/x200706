@@ -17,5 +17,5 @@ If you're interested in me, you can find me at the following places:\
 [![image](https://github.com/user-attachments/assets/b3f5d74f-ae64-4a82-9694-f3f8589799ed)](https://www.kaggle.com/x200706)
 
 ## GitHub Status
-[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=omni&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)\
+[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=omni&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x200706\&layout=compact&theme=omni)
