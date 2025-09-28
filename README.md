@@ -14,5 +14,5 @@ Nice to meet you!
 <img src="https://img.shields.io/badge/PyCharm-C5D2F0?style=for-the-badge&logo=pycharm&logoColor=0D1B48" alt="PyCharm"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-C5D2F0?style=for-the-badge&logo=intellij-idea&logoColor=0D1B48" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/GitHub-C5D2F0?style=for-the-badge&logo=github&logoColor=0D1B48" alt="GitHub"> <img src="https://img.shields.io/badge/Docker-C5D2F0?style=for-the-badge&logo=docker&logoColor=0D1B48" alt="Docker">
 
 ## GitHub Status
-[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=nord&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=x200706&show_icons=true&theme=holi&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x200706\&layout=compact&theme=omni)-->
