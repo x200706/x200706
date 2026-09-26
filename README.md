@@ -1,7 +1,7 @@
-# About Crystal
+# About Me
 Welcome to my GitHub profile! \
 This is where I share open-source projects and technical notes. \
-If you're interested in me, you can find me at the following places:
+If you're interested in me, you can find me at the following places:\
 🔍[My Digital Garden](https://x200706.github.io/) 🔍[My Gist](https://gist.github.com/x200706)
 
 Nice to meet you!
@@ -13,5 +13,4 @@ Nice to meet you!
 <img src="https://img.shields.io/badge/Markdown-0F172A?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"> <img src="https://img.shields.io/badge/PyCharm-0F172A?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-0F172A?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
 ## GitHub Status
-[![Crystal's GitHub stats](https://github-stats-extended.vercel.app/api?username=x200706&show_icons=false&theme=blue_navy&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x200706\&layout=compact&theme=omni)-->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=x200706&rank_icon=percentile&custom_title=My%20GitHub%20Status&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=x200706&rank_icon=percentile&custom_title=My%20GitHub%20Status&include_all_commits=true&theme=blue_navy)
