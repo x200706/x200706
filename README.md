@@ -13,5 +13,5 @@ Nice to meet you!
 <img src="https://img.shields.io/badge/Markdown-0F172A?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"> <img src="https://img.shields.io/badge/PyCharm-0F172A?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-0F172A?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
 ## GitHub Status
-[![Crystal's GitHub stats](https://github-stats-extended.vercel.app/api?username=x200706&show_icons=false&theme=one_dark_pro&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Crystal's GitHub stats](https://github-stats-extended.vercel.app/api?username=x200706&show_icons=false&theme=blue_navy&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x200706\&layout=compact&theme=omni)-->
